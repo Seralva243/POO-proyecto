@@ -11,7 +11,33 @@
 
 6. El entrenador quiere que se diseñe una encuesta la cual agrupa los principales atributos de salud del cliente para empezar a evaluar las mejores rutinas posibles para el usuario
 
-Nota de la encuesta:  #peso, edad, enfermedades comunes, cirugías?, deporte, altura, nivel físico actual (principiante, intermedio, avanzado), tipo de cuerpo, si hacer la rutina en gimnasio o al aire libre
+Nota: Edad
+
+Altura y peso
+
+Objetivo principal (rendimiento, condición física, pérdida de grasa, fuerza, recreativo, otro)
+
+Deporte(s) de interés (baloncesto, fútbol, tenis, voleibol)
+
+Nivel actual en cada deporte (1–5)
+
+Horarios disponibles para entrenar
+
+Condiciones médicas diagnosticadas
+
+Lesiones previas o molestias actuales
+
+Resistencia cardiovascular (autoevaluación 1–5)
+
+Fuerza general (autoevaluación 1–5)
+
+Horas y calidad de sueño
+
+Nivel de compromiso (sesiones por semana)
+
+Motivación para entrenar (0–10)
+
+Tipo de cuerpo, si hacer la rutina en gimnasio o al aire libre
  
 7. El entrenador quiere de una pestaña de personalización del usuario donde se haga visualización de la encuesta planeada para que el usuario tenga la opción de actualizar encuesta y registrar limitaciones o discapacidades.
  
